@@ -2,12 +2,10 @@
    
    <types xmlns="">
       <members>ASMTSOCoreDataSetup</members>
+      <members>AdSales236Migrator</members>
+      <members>AdSales236MigratorTest</members>
+      <members>AdSalesMapper</members>
       <name>ApexClass</name>
-   </types>
-   <types xmlns="">
-      <members>vlocity_cmt__XOMParameter__c.vlocity_cmt__Value__c</members>
-      <members>vlocity_cmt__XOMSetup__c.vlocity_cmt__Key__c</members>
-      <name>CustomField</name>
    </types>
    <version>60.0</version>
 </Package>
