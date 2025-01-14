@@ -1,0 +1,4 @@
+projectPath: vlocity
+ignoreDependencies: true
+manifest:
+    - AttributeCategory/ADS-TV-ATTRGRP
