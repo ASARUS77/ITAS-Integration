@@ -1,0 +1,26 @@
+{
+   "Platform": "RLM",
+   "Language": "English",
+   "ExternalParameter": "",
+   "ObjectName": "PriceBookEntry",
+   "rlmData": {
+      "UseStandardPrice": "false",
+      "UnitPrice": "1500.0",
+      "Product2Id": "01tWz000001xCMgIAM",
+      "Pricebook2": {
+         "Id": "",
+         "type": "Pricebook2",
+         "Name": "Standard Price Book"
+      },
+      "Product2": {
+         "Id": "",
+         "type": "Product2",
+         "Name": "Skill Development Package"
+      },
+      "IsActive": "true",
+      "Pricebook2Id": "01sWz000000DOqDIAW",
+      "Id": "",
+      "type": "PricebookEntry",
+      "Name": "Skill Development Package"
+   }
+}

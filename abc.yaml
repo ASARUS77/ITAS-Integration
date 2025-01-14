@@ -1,0 +1,6 @@
+projectPath: vlocity
+ignoreDependencies: true
+manifest:
+    - OmniScript/InteractionLauncher_AccountSearch_English
+    - OmniScript/InteractionLauncher_sampleAccountSearch_English
+    - OmniScript/sample_editAccount_English
