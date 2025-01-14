@@ -1,0 +1,17 @@
+{
+   "Platform": "RLM",
+   "Language": "English",
+   "ExternalParameter": "",
+   "ObjectName": "ProductCategoryProduct",
+   "rlmData": {
+      "ProductCategoryId": "0ZGWz0000001jj8OAA",
+      "ProductCategory": {
+         "Id": "",
+         "type": "ProductCategory",
+         "Name": "Training"
+      },
+      "ProductId": "01tWz000001xCMgIAM",
+      "Id": "",
+      "type": "ProductCategoryProduct"
+   }
+}

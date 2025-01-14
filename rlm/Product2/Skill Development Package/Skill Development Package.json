@@ -1,0 +1,27 @@
+{
+   "Platform": "RLM",
+   "Language": "English",
+   "ExternalParameter": "",
+   "ObjectName": "Product2",
+   "rlmData": {
+      "Description": "Skills development bundle includes various products to enhance your skills and uplift your profile.",
+      "IsAssetizable": "true",
+      "ProductCode": "SDP001",
+      "IsActive": "true",
+      "NumberOfQuantityInstallments": "",
+      "StockKeepingUnit": "",
+      "type": "Product2",
+      "Name": "Skill Development Package",
+      "QuantityScheduleType": "",
+      "Type": "Bundle",
+      "Warranty_Notes__c": "",
+      "QuantityInstallmentPeriod": "",
+      "QuantityUnitOfMeasure": "",
+      "RevenueInstallmentPeriod": "",
+      "Id": "",
+      "Tenant__c": "",
+      "TaxPolicyId": "",
+      "IsSoldOnlyWithOtherProds": "false",
+      "NumberOfRevenueInstallments": ""
+   }
+}

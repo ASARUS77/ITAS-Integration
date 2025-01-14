@@ -1,0 +1,5 @@
+<apex:page standardController="Opportunity" extensions="XTabHelperController" docType="html-5.0" lightningStylesheets="true">
+  <!-- Begin Default Content REMOVE THIS -->
+ <script> window.location=("https://prod-useast-b.online.tableau.com/t/testrunner/views/Kaufman_final_1/Kaufman_1?%3Aembed=y&%3Atoolbar=n"); </script>
+  
+</apex:page>

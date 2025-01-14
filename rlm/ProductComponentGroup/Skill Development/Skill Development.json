@@ -1,0 +1,16 @@
+{
+   "Platform": "RLM",
+   "Language": "English",
+   "ExternalParameter": "",
+   "ObjectName": "ProductComponentGroup",
+   "rlmData": {
+      "Description": "",
+      "ParentProductId": "01tWz000001xCMgIAM",
+      "MinBundleComponents": "2",
+      "MaxBundleComponents": "3",
+      "Id": "",
+      "Sequence": "",
+      "type": "ProductComponentGroup",
+      "Name": "Skill Development"
+   }
+}
