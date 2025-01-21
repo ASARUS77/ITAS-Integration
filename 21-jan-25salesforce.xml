@@ -6,6 +6,9 @@
       <members>ChangePassword</members>
       <members>ChatterAnswersChangePassword</members>
       <members>ChatterAnswersForgotPassword</members>
+      <members>ChatterAnswersForgotPasswordConfirm</members>
+      <members>ChatterAnswersHelp</members>
+      <members>ChatterAnswersLogin</members>
       <name>ApexPage</name>
    </types>
    <version>60.0</version>
