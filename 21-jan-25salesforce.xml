@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   
+   <types xmlns="">
+      <members>AnswersHome</members>
+      <members>BandwidthExceeded</members>
+      <members>ChangePassword</members>
+      <members>ChatterAnswersChangePassword</members>
+      <members>ChatterAnswersForgotPassword</members>
+      <members>ChatterAnswersForgotPasswordConfirm</members>
+      <members>ChatterAnswersHelp</members>
+      <members>ChatterAnswersLogin</members>
+      <name>ApexPage</name>
+   </types>
+   <version>60.0</version>
+</Package>
